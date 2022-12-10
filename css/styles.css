@@ -1,0 +1,30 @@
+/*----------------- carousel styles ------------------ */
+.panda-carousel {
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+
+.panda-carousel-inner {
+    height: 450px;
+}
+
+.panda-bg-info {
+    background-color: #FCEAEA;
+}
+
+.panda-btn-warning {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+
+/*---------------- categories --------------------*/
+.cataegories img {
+    width: 100px;
+}
+
+.panda-bg-warning {
+    background: #ffa500;
+}
